@@ -1,3 +1,7 @@
-.Data\
-.Materials\
-.Presentation\
+Data/
+Materials/
+Presentation/
+Code/Notes.txt
+Code/SVHN_DCGAN.py
+Paper/GAN_SVHN_maturski.pdf
+Poster/GAN_SVHN_Poster.svg
